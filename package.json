@@ -31,7 +31,7 @@
     "connect": "^3.3.5",
     "minifyify": "^7.0.1",
     "open": "0.0.5",
-    "pdfmake": "0.1.18",
+    "pdfmake": "git+https://github.com/jorgebo10/pdfmake.git#1eda48dddbfdd76b4a319d64b43bf49b2e37810b",
     "serve-static": "^1.9.3"
   },
   "browserify": {
